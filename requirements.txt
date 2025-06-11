@@ -1,0 +1,11 @@
+flask==3.0.0
+numpy==1.26.0
+gunicorn==22.0.0
+python-dotenv
+Flask-Cors==4.0.1
+pandas==2.2.2
+google-generativeai==0.7.0
+python-dotenv==1.0.1
+google==2.0.3
+google.genai==0.6.0
+setuptools>=65.5.0
